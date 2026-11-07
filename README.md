@@ -74,22 +74,6 @@ I enjoy designing scalable architectures, building robust APIs, integrating inte
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=atulshrma91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulshrma91&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=atulshrma91&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in building innovative products, solving challenging engineering problems, and exploring new possibilities with AI.
@@ -99,7 +83,5 @@ I'm always interested in building innovative products, solving challenging engin
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/atulshrma91)
-
-### ⭐ Code. Build. Innovate. Repeat.
 
 </div>
